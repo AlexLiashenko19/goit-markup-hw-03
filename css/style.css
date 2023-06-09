@@ -63,11 +63,11 @@ body {
 .navi {
     display: flex;
     align-items: center;
+    padding: 24px 0;
 }
 
 .logo {
     margin-right: 76px;
-    padding: 24px 0;
     
     align-content: center;
     color: var(--button-color);
