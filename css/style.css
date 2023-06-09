@@ -41,6 +41,8 @@ body {
 }
 .list {
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 .link {
@@ -63,7 +65,6 @@ body {
 .navi {
     display: flex;
     align-items: center;
-    padding: 24px 0;
 }
 
 .logo {
@@ -118,6 +119,10 @@ body {
 
 .auth-nav .auth-item + .auth-item {
     margin-left: 40px;
+}
+
+.item {
+    padding: 24px 0;
 }
 
 .auth-nav .info-contact {
@@ -185,7 +190,6 @@ body {
 }
 .second-container {
     display: flex;
-    max-width: 1128px;
     margin: 0 auto;
     gap: 24px;
 }
