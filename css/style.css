@@ -121,8 +121,9 @@ body {
     margin-left: 40px;
 }
 
-.auth-nav > .item {
-    padding: 24px 0;
+.item {
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .auth-nav .info-contact {
