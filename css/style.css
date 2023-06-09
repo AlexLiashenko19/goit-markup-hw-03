@@ -67,6 +67,7 @@ body {
 
 .logo {
     margin-right: 76px;
+    padding: 24px 0;
     
     align-content: center;
     color: var(--button-color);
@@ -90,7 +91,6 @@ body {
 .site-nav {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 
@@ -113,6 +113,7 @@ body {
 
 .auth-nav {
     display: flex;
+    gap: 40px;
 }
 
 .auth-nav .auth-item + .auth-item {
@@ -351,7 +352,7 @@ body {
     gap: 48px 24px;
 }
 
-.portfolio-link {
+.second-link{
     width: calc((100% - 48px) / 3);
 }
 
