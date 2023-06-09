@@ -94,6 +94,9 @@ body {
     gap: 40px;
 }
 
+.transition {
+    padding: 24px 0;
+}
 
 .site-nav .transition{
     color: #2e2f42;
@@ -121,10 +124,7 @@ body {
     margin-left: 40px;
 }
 
-.item {
-    padding-top: 24px;
-    padding-bottom: 24px;
-}
+
 
 .auth-nav .info-contact {
     color: #434455;
