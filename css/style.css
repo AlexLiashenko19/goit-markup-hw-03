@@ -89,12 +89,10 @@ body {
 
 .site-nav {
     display: flex;
-    gap: 30px;
-}
-
-.item {
+    gap: 40px;
     padding: 24px 0;
 }
+
 
 .site-nav .transition{
     color: #2e2f42;
@@ -115,7 +113,6 @@ body {
 
 .auth-nav {
     display: flex;
-    gap: 40px;
 }
 
 .auth-nav .auth-item + .auth-item {
