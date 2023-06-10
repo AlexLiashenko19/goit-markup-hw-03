@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6, p {
     margin-right: auto;
     max-width: 1158px;
     margin: 0 auto;
-    padding: 0 15px;
+
 }
 
 img {
@@ -60,7 +60,7 @@ body {
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid #e7e9fc;
-    padding: 24px 0;
+    padding: 24px 15px;
 }
 
 .navi {
